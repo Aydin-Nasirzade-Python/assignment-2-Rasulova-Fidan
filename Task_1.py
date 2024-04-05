@@ -8,6 +8,7 @@ def main():
     print("Sometimes it is a vowel, and sometimes it is a constant!")
   else:
     print("Entered alphabet is a consonant!")
+    
 
   pass
 
